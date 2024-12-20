@@ -1,0 +1,1139 @@
+[
+    {
+        
+        "title": "Premium Blueberry Cheesecake",
+        "description": "Luxurious blueberry cheesecake with a velvety smooth filling and a crunchy graham cracker crust, topped with fresh blueberries and a light dusting of powdered sugar.",
+        "category": "Bakery",
+        "brand": "Heavenly Delights",
+        "size": "9 inches in diameter",
+        "stock": 10,
+        "suggestion": [
+            "Serves 8 to 10",
+            "Best served chilled",
+            "Allergen information: Contains dairy and wheat"
+        ],
+        "allegations": [
+            "Contains dairy and wheat",
+            "Produced in a facility that also processes nuts and soy"
+        ]
+    },
+    {
+        
+        "title": "Organic Almond Milk",
+        "description": "Smooth and creamy organic almond milk, a perfect dairy-free alternative, enriched with calcium and vitamin D for added nutritional benefit.",
+        "category": "Dairy Alternatives",
+        "brand": "Almond Pure",
+        "size": "1 gallon",
+        "stock": 25,
+        "suggestion": [
+            "Serve chilled",
+            "Shake well before use",
+            "Refrigerate after opening"
+        ],
+        "allegations": [
+            "Contains almonds",
+            "Dairy-free, soy-free, gluten-free"
+        ]
+    },
+    {
+        
+        "title": "Gluten-Free Multigrain Bread",
+        "description": "Hearty multigrain bread, baked fresh with a blend of gluten-free flours, seeds, and grains for a nutritious and delicious option for all.",
+        "category": "Bakery",
+        "brand": "Grain Goodness",
+        "size": "1 loaf",
+        "stock": 15,
+        "suggestion": [
+            "Slice for sandwiches or toast",
+            "Store in a cool, dry place",
+            "Certified Gluten-Free"
+        ],
+        "allegations": [
+            "Gluten-free",
+            "Contains seeds (sunflower, flaxseeds)",
+            "Produced in a facility that handles soy"
+        ]
+    },
+    {
+        
+        "title": "Classic Vanilla Ice Cream",
+        "description": "Rich and creamy vanilla ice cream made from real vanilla beans and fresh cream, a timeless treat for all ages.",
+        "category": "Frozen Desserts",
+        "brand": "Creamy Creations",
+        "size": "2 pints",
+        "stock": 20,
+        "suggestion": [
+            "Serve chilled",
+            "Pairs well with pie or fresh fruit",
+            "Contains dairy"
+        ],
+        "allegations": [
+            "Contains dairy",
+            "Produced in a facility that processes peanuts, tree nuts, and eggs"
+        ]
+    },
+    {
+        
+        "title": "Spicy Jalapeno Bites",
+        "description": "Crispy breaded snacks filled with creamy cheddar cheese and diced jalapeno peppers, perfect for a quick spicy treat.",
+        "category": "Frozen Snacks",
+        "brand": "Spice It Up",
+        "size": "20 pieces",
+        "stock": 30,
+        "suggestion": [
+            "Bake or deep fry until golden brown",
+            "Serve with ranch or blue cheese dip",
+            "Keep frozen until ready to cook"
+        ],
+        "allegations": [
+            "Contains dairy, wheat",
+            "Spicy: Contains jalapenos"
+        ]
+    },
+    {
+        
+        "title": "Artisan Sourdough Loaf",
+        "description": "A rustic, crusty loaf of sourdough bread made with traditional fermentation techniques to enhance flavor and digestibility. Perfect for sandwiches or as a table bread.",
+        "category": "Bakery",
+        "brand": "Bread Artisans",
+        "size": "1 loaf",
+        "stock": 18,
+        "suggestion": [
+            "Slice and serve with butter",
+            "Best consumed within 2 days of purchase",
+            "Contains wheat"
+        ],
+        "allegations": [
+            "Contains wheat",
+            "Produced in a facility that processes nuts"
+        ]
+    },
+    {
+        
+        "title": "Oat Milk Chocolate",
+        "description": "Creamy, dairy-free chocolate oat milk, a perfect vegan delight enriched with cocoa and naturally sweetened with dates.",
+        "category": "Dairy Alternatives",
+        "brand": "Oatly",
+        "size": "1 quart",
+        "stock": 22,
+        "suggestion": [
+            "Serve chilled",
+            "Great for coffee or smoothies",
+            "Shake well before using"
+        ],
+        "allegations": [
+            "Dairy-free",
+            "Contains oats",
+            "May contain traces of nuts"
+        ]
+    },
+    {
+        
+        "title": "Probiotic Yogurt Drink",
+        "description": "A refreshing probiotic yogurt drink packed with live cultures to support digestive health, made with natural ingredients and no added sugars.",
+        "category": "Dairy",
+        "brand": "Yogurt Health",
+        "size": "16 oz bottle",
+        "stock": 25,
+        "suggestion": [
+            "Consume within one week of opening",
+            "Serve chilled",
+            "Stir well before drinking"
+        ],
+        "allegations": [
+            "Contains dairy",
+            "Gluten-free"
+        ]
+    },
+    {
+        
+        "title": "Gourmet Mixed Nuts",
+        "description": "A deluxe assortment of roasted and salted almonds, cashews, pecans, and walnuts, perfect for a nutritious snack or a party platter.",
+        "category": "Snacks",
+        "brand": "Nutty Delights",
+        "size": "1 lb bag",
+        "stock": 30,
+        "suggestion": [
+            "Enjoy as a snack or use in recipes",
+            "Keep in a cool, dry place",
+            "Packed in a nut-free facility"
+        ],
+        "allegations": [
+            "Contains tree nuts",
+            "Gluten-free, soy-free"
+        ]
+    },
+    {
+        
+        "title": "Frozen Spinach and Feta Pizza",
+        "description": "A delicious combination of creamy feta cheese and spinach on a thin and crispy crust, pre-baked and frozen for quick preparation.",
+        "category": "Frozen",
+        "brand": "Pizza Gourmet",
+        "size": "12 inch pizza",
+        "stock": 20,
+        "suggestion": [
+            "Bake at 425°F for 10-12 minutes",
+            "Let cool for 2 minutes before serving",
+            "Contains dairy, wheat"
+        ],
+        "allegations": [
+            "Contains dairy, wheat",
+            "Produced in a facility that also processes meat"
+        ]
+    },
+    {
+        
+        "title": "Organic Peanut Butter",
+        "description": "Smooth and creamy organic peanut butter made from 100% roasted peanuts with no added sugar or oils. Ideal for sandwiches or as a healthy snack.",
+        "category": "Pantry",
+        "brand": "Pure Peanuts",
+        "size": "16 oz jar",
+        "stock": 32,
+        "suggestion": [
+            "Stir before use as oil separation is natural",
+            "Store in a cool, dry place",
+            "Enjoy with bread, fruits, or in smoothies"
+        ],
+        "allegations": [
+            "Contains peanuts",
+            "Gluten-free, dairy-free"
+        ]
+    },
+    {
+        
+        "title": "Caffeine-Free Herbal Tea",
+        "description": "A soothing blend of chamomile, mint, and lemon balm, this caffeine-free herbal tea is perfect for relaxing afternoons or before bedtime.",
+        "category": "Beverages",
+        "brand": "Tranquil Teas",
+        "size": "20 tea bags",
+        "stock": 40,
+        "suggestion": [
+            "Steep for 5 minutes in boiling water",
+            "Serve hot or iced",
+            "No artificial flavors or colors"
+        ],
+        "allegations": [
+            "Allergen-free",
+            "Produced in a facility that processes tree nuts"
+        ]
+    },
+    {
+        
+        "title": "Quinoa and Black Bean Chips",
+        "description": "Crunchy and flavorful chips made from quinoa and black beans, lightly seasoned with sea salt and lime for a zesty finish.",
+        "category": "Snacks",
+        "brand": "Healthy Crunch",
+        "size": "8 oz bag",
+        "stock": 28,
+        "suggestion": [
+            "Pair with your favorite salsa or guacamole",
+            "Great for parties or as a healthy snack option",
+            "Store in a cool, dry place"
+        ],
+        "allegations": [
+            "Gluten-free",
+            "Contains black beans",
+            "Produced in a facility that processes dairy and soy"
+        ]
+    },
+    {
+        
+        "title": "Vegan Chocolate Cookies",
+        "description": "Indulge in these soft and chewy chocolate cookies, made with vegan ingredients and rich cocoa. Perfect for satisfying your sweet tooth without dairy.",
+        "category": "Bakery",
+        "brand": "Vegan Delights",
+        "size": "12 cookies",
+        "stock": 24,
+        "suggestion": [
+            "Enjoy as a dessert or snack",
+            "Dairy-free, egg-free",
+            "Keep in an airtight container to maintain freshness"
+        ],
+        "allegations": [
+            "Contains wheat, soy",
+            "Produced in a facility that processes nuts"
+        ]
+    },
+    {
+        
+        "title": "Organic Tomato Soup",
+        "description": "Rich and creamy organic tomato soup made with vine-ripened tomatoes, fresh cream, and a hint of basil. A classic comfort food made with all-natural ingredients.",
+        "category": "Canned Goods",
+        "brand": "Tomato Basics",
+        "size": "16 oz can",
+        "stock": 36,
+        "suggestion": [
+            "Heat and serve",
+            "Perfect with grilled cheese or croutons",
+            "Store in a cool, dry place; refrigerate after opening"
+        ],
+        "allegations": [
+            "Contains dairy",
+            "Gluten-free"
+        ]
+    },
+    {
+        
+        "title": "Gluten-Free Blueberry Muffins",
+        "description": "Moist and flavorful blueberry muffins made with almond flour and fresh blueberries. Perfect for a gluten-free snack or a quick breakfast.",
+        "category": "Bakery",
+        "brand": "Gluten-Free Goodies",
+        "size": "Pack of 6",
+        "stock": 15,
+        "suggestion": [
+            "Enjoy fresh or toasted",
+            "Store in a cool, dry place",
+            "Certified Gluten-Free"
+        ],
+        "allegations": [
+            "Contains eggs and almonds",
+            "Produced in a facility that also processes soy and milk"
+        ]
+    },
+    {
+        
+        "title": "Almond Flour Pancake Mix",
+        "description": "Easy-to-prepare almond flour pancake mix, providing a nutritious, gluten-free alternative to traditional pancakes. Just add water!",
+        "category": "Pantry",
+        "brand": "NutriFlour",
+        "size": "1 lb bag",
+        "stock": 20,
+        "suggestion": [
+            "Mix with water or almond milk for fluffier pancakes",
+            "Serve with maple syrup or fresh berries",
+            "Gluten-free and dairy-free"
+        ],
+        "allegations": [
+            "Contains almonds",
+            "Produced in a facility that also processes peanuts and tree nuts"
+        ]
+    },
+    {
+        
+        "title": "Organic Cashew Butter",
+        "description": "Smooth and creamy, this organic cashew butter is made with dry-roasted cashews and a hint of sea salt. No added oils or sugars.",
+        "category": "Pantry",
+        "brand": "Pure Nuts",
+        "size": "12 oz jar",
+        "stock": 25,
+        "suggestion": [
+            "Spread on toast or blend into smoothies",
+            "Keep in a cool, dry place",
+            "Stir well before use as natural oil separation may occur"
+        ],
+        "allegations": [
+            "Contains cashews",
+            "Dairy-free, gluten-free"
+        ]
+    },
+    {
+        
+        "title": "Freeze-Dried Strawberry Slices",
+        "description": "Crisp and naturally sweet freeze-dried strawberry slices, perfect as a healthy snack or a topping for cereals and yogurts.",
+        "category": "Snacks",
+        "brand": "Berry Crunch",
+        "size": "2 oz bag",
+        "stock": 40,
+        "suggestion": [
+            "Enjoy straight from the bag or add to breakfast foods",
+            "Store in a cool, dry place",
+            "No added sugars or preservatives"
+        ],
+        "allegations": [
+            "Allergen-free",
+            "Produced in a facility that also processes nuts and dairy"
+        ]
+    },
+    {
+        
+        "title": "Organic Spelt Bread",
+        "description": "Made from whole grain spelt flour, this bread offers a nutty flavor and a high fiber content. Perfect for those sensitive to wheat.",
+        "category": "Bakery",
+        "brand": "Ancient Grains",
+        "size": "1 loaf",
+        "stock": 18,
+        "suggestion": [
+            "Slice for sandwiches or toast",
+            "Store in a cool, dry place",
+            "High in fiber and iron"
+        ],
+        "allegations": [
+            "Contains spelt (a type of wheat)",
+            "Produced in a facility that processes soy and sesame seeds"
+        ]
+    },
+    {
+        
+        "title": "Vegan Protein Bars - Peanut Butter",
+        "description": "Delicious plant-based protein bars with a rich peanut butter flavor, packed with 12g of protein per serving. Ideal for a post-workout snack or an on-the-go meal.",
+        "category": "Snacks",
+        "brand": "Power Plant",
+        "size": "12 bars",
+        "stock": 35,
+        "suggestion": [
+            "Store in a cool, dry place",
+            "Great for travel, hiking, or as a quick snack",
+            "Certified Vegan"
+        ],
+        "allegations": [
+            "Contains peanuts",
+            "Gluten-free, dairy-free"
+        ]
+    },
+    {
+        
+        "title": "Organic Chia Seeds",
+        "description": "Raw, organic chia seeds, an excellent source of fiber, omega-3 fatty acids, and protein. Perfect for smoothies, oatmeal, or baking.",
+        "category": "Pantry",
+        "brand": "Superfoods Plus",
+        "size": "16 oz bag",
+        "stock": 50,
+        "suggestion": [
+            "Mix into smoothies or sprinkle over salads",
+            "Store in a cool, dry place",
+            "Gluten-free and vegan"
+        ],
+        "allegations": [
+            "Allergen-free",
+            "Produced in a facility that also processes nuts"
+        ]
+    },
+    {
+        
+        "title": "Cold Brew Coffee Concentrate",
+        "description": "Smooth, rich cold brew coffee concentrate made from 100% Arabica beans. Perfect for making iced coffee or lattes at home.",
+        "category": "Beverages",
+        "brand": "Brewed Bold",
+        "size": "32 oz bottle",
+        "stock": 20,
+        "suggestion": [
+            "Dilute with water or milk to taste",
+            "Serve over ice for a refreshing coffee experience",
+            "Refrigerate after opening"
+        ],
+        "allegations": [
+            "Allergen-free",
+            "Produced in a facility that also processes dairy"
+        ]
+    },
+    {
+        
+        "title": "Vegan Coconut Milk Ice Cream - Chocolate",
+        "description": "Rich and creamy chocolate ice cream made from coconut milk, perfect for a dairy-free indulgence. Sweetened with organic cane sugar and made with fair trade cocoa.",
+        "category": "Frozen Desserts",
+        "brand": "Coconut Bliss",
+        "size": "1 pint",
+        "stock": 15,
+        "suggestion": [
+            "Best enjoyed slightly thawed",
+            "Pairs well with fresh fruit or chocolate sauce",
+            "Certified Vegan and Organic"
+        ],
+        "allegations": [
+            "Contains coconut",
+            "Gluten-free, dairy-free"
+        ]
+    },
+    {
+        
+        "title": "Organic Rolled Oats",
+        "description": "High-quality organic rolled oats, perfect for making oatmeal, granola, or baking. A great source of fiber and whole grains.",
+        "category": "Pantry",
+        "brand": "Whole Harvest",
+        "size": "2 lb bag",
+        "stock": 40,
+        "suggestion": [
+            "Store in a cool, dry place",
+            "Use in baking, or as a base for oatmeal and granola",
+            "Certified Organic and Non-GMO"
+        ],
+        "allegations": [
+            "Produced in a facility that processes wheat and nuts",
+            "Gluten-free"
+        ]
+    },
+    {
+        
+        "title": "Organic Green Tea",
+        "description": "Premium organic green tea leaves, hand-picked and carefully processed to preserve their natural flavor and health benefits. A refreshing and antioxidant-rich beverage.",
+        "category": "Beverages",
+        "brand": "Green Leaf",
+        "size": "20 tea bags",
+        "stock": 50,
+        "suggestion": [
+            "Steep for 3 minutes in hot water",
+            "Serve hot or iced",
+            "No artificial flavors or colors"
+        ],
+        "allegations": [
+            "Allergen-free",
+            "Produced in a facility that processes tree nuts"
+        ]
+    },
+    {
+        
+        "title": "Premium Blueberry Cheesecake",
+        "description": "Luxurious blueberry cheesecake with a velvety smooth filling and a crunchy graham cracker crust, topped with fresh blueberries and a light dusting of powdered sugar.",
+        "category": "Bakery",
+        "brand": "Heavenly Delights",
+        "size": "9 inches in diameter",
+        "stock": 10,
+        "suggestion": [
+            "Serves 8 to 10",
+            "Best served chilled",
+            "Allergen information: Contains dairy and wheat"
+        ],
+        "allegations": [
+            "Contains dairy and wheat",
+            "Produced in a facility that also processes nuts and soy"
+        ]
+    },
+    {
+        
+        "title": "Organic Almond Milk",
+        "description": "Smooth and creamy organic almond milk, a perfect dairy-free alternative, enriched with calcium and vitamin D for added nutritional benefit.",
+        "category": "Dairy Alternatives",
+        "brand": "Almond Pure",
+        "size": "1 gallon",
+        "stock": 25,
+        "suggestion": [
+            "Serve chilled",
+            "Shake well before use",
+            "Refrigerate after opening"
+        ],
+        "allegations": [
+            "Contains almonds",
+            "Dairy-free, soy-free, gluten-free"
+        ]
+    },
+    {
+        
+        "title": "Organic Maple Syrup",
+        "description": "Pure organic maple syrup, harvested from Canadian maple trees. Perfect for pancakes, waffles, or as a natural sweetener in cooking and baking.",
+        "category": "Pantry",
+        "brand": "Maple Grove",
+        "size": "12 oz bottle",
+        "stock": 22,
+        "suggestion": [
+            "Serve warm over pancakes or waffles",
+            "Store in the refrigerator after opening",
+            "Certified Organic"
+        ],
+        "allegations": [
+            "Allergen-free",
+            "Gluten-free and vegan"
+        ]
+    },
+    {
+        
+        "title": "Whole Grain Brown Rice",
+        "description": "Organic whole grain brown rice, rich in fiber and essential nutrients. A versatile pantry staple for healthy meals.",
+        "category": "Pantry",
+        "brand": "Healthy Harvest",
+        "size": "5 lb bag",
+        "stock": 18,
+        "suggestion": [
+            "Rinse before cooking",
+            "Use as a base for stir-fries, curries, or salads",
+            "Store in a cool, dry place"
+        ],
+        "allegations": [
+            "Gluten-free",
+            "Produced in a facility that processes nuts"
+        ]
+    },
+    {
+        
+        "title": "Organic Coconut Water",
+        "description": "Refreshing organic coconut water, packed with electrolytes and hydration. Perfect for post-workout replenishment or as a refreshing drink.",
+        "category": "Beverages",
+        "brand": "CocoFresh",
+        "size": "16 oz bottle",
+        "stock": 50,
+        "suggestion": [
+            "Serve chilled",
+            "Shake well before opening",
+            "No added sugars or preservatives"
+        ],
+        "allegations": [
+            "Contains coconut",
+            "Gluten-free, vegan"
+        ]
+    },
+    {
+        
+        "title": "Spicy Sriracha Ketchup",
+        "description": "A bold and spicy twist on classic ketchup, with the addition of sriracha sauce for a zesty kick. Great for burgers, fries, and more.",
+        "category": "Pantry",
+        "brand": "Hot 'n' Spicy",
+        "size": "14 oz bottle",
+        "stock": 60,
+        "suggestion": [
+            "Use as a dip for fries or a topping for burgers",
+            "Refrigerate after opening",
+            "Gluten-free and vegan"
+        ],
+        "allegations": [
+            "Gluten-free",
+            "Produced in a facility that processes soy"
+        ]
+    },
+    {
+        
+        "title": "Organic Sweet Potato Chips",
+        "description": "Crispy, lightly salted organic sweet potato chips, perfect for a healthy snack option. Made with only three ingredients: sweet potatoes, sunflower oil, and sea salt.",
+        "category": "Snacks",
+        "brand": "Rooted Snacks",
+        "size": "8 oz bag",
+        "stock": 40,
+        "suggestion": [
+            "Pair with your favorite dip or enjoy on their own",
+            "Store in a cool, dry place",
+            "Certified Organic"
+        ],
+        "allegations": [
+            "Allergen-free",
+            "Gluten-free, vegan"
+        ]
+    },
+    {
+        
+        "title": "Organic Almond Butter",
+        "description": "Smooth and creamy almond butter made from organic roasted almonds, perfect for spreading on toast or adding to smoothies.",
+        "category": "Pantry",
+        "brand": "Nutty Naturals",
+        "size": "12 oz jar",
+        "stock": 45,
+        "suggestion": [
+            "Stir well before use as natural oil separation may occur",
+            "Store in a cool, dry place",
+            "Certified Organic and Non-GMO"
+        ],
+        "allegations": [
+            "Contains almonds",
+            "Gluten-free and vegan"
+        ]
+    },
+    {
+        
+        "title": "Quinoa Pasta - Penne",
+        "description": "Gluten-free quinoa pasta in a penne shape, perfect for making pasta dishes while enjoying the benefits of quinoa's high protein content.",
+        "category": "Pantry",
+        "brand": "Quinoa Kitchen",
+        "size": "12 oz box",
+        "stock": 30,
+        "suggestion": [
+            "Cook in boiling water for 7-9 minutes",
+            "Serve with your favorite sauce",
+            "Gluten-free and high in protein"
+        ],
+        "allegations": [
+            "Gluten-free",
+            "Produced in a facility that processes tree nuts"
+        ]
+    },
+    {
+        
+        "title": "Organic Green Tea",
+        "description": "Organic loose leaf green tea, packed with antioxidants and a mild, refreshing flavor. Perfect for a daily health boost.",
+        "category": "Beverages",
+        "brand": "Tea Traditions",
+        "size": "4 oz tin",
+        "stock": 50,
+        "suggestion": [
+            "Steep in hot water for 2-3 minutes for best results",
+            "Serve with lemon or honey for added flavor",
+            "Certified Organic and Non-GMO"
+        ],
+        "allegations": [
+            "Allergen-free",
+            "Gluten-free and vegan"
+        ]
+    },
+    {
+        
+        "title": "Dark Chocolate Covered Almonds",
+        "description": "Crunchy roasted almonds covered in rich dark chocolate, a perfect blend of sweet and nutty for a delicious treat.",
+        "category": "Snacks",
+        "brand": "ChocoNuts",
+        "size": "10 oz bag",
+        "stock": 20,
+        "suggestion": [
+            "Enjoy as a snack or dessert",
+            "Store in a cool, dry place",
+            "Gluten-free and dairy-free"
+        ],
+        "allegations": [
+            "Contains almonds",
+            "Produced in a facility that processes dairy and soy"
+        ]
+    },
+    {
+        
+        "title": "Coconut Oil Cooking Spray",
+        "description": "Organic coconut oil spray, ideal for greasing pans or adding a light coconut flavor to your favorite dishes. Non-stick and easy to use.",
+        "category": "Pantry",
+        "brand": "CocoSpray",
+        "size": "6 oz can",
+        "stock": 35,
+        "suggestion": [
+            "Shake well before use",
+            "Spray lightly on cooking surfaces or food",
+            "Certified Organic and Non-GMO"
+        ],
+        "allegations": [
+            "Contains coconut",
+            "Gluten-free and vegan"
+        ]
+    },
+    {
+        
+        "title": "Whole Grain Oatmeal",
+        "description": "Rich in fiber and nutrients, this organic whole grain oatmeal is perfect for a healthy and filling breakfast. Quick-cooking for convenience.",
+        "category": "Pantry",
+        "brand": "Grain & Goodness",
+        "size": "18 oz bag",
+        "stock": 28,
+        "suggestion": [
+            "Serve with fresh fruits or nuts for added flavor",
+            "Store in a cool, dry place",
+            "Certified Organic and Non-GMO"
+        ],
+        "allegations": [
+            "Produced in a facility that processes wheat and tree nuts",
+            "Gluten-free and vegan"
+        ]
+    },
+    {
+        
+        "title": "Organic Dark Roast Coffee Beans",
+        "description": "Bold and rich organic dark roast coffee beans, sourced from sustainable farms. Ideal for espresso or strong brewed coffee.",
+        "category": "Beverages",
+        "brand": "Earth Brew",
+        "size": "12 oz bag",
+        "stock": 42,
+        "suggestion": [
+            "Grind fresh for each brew to maximize flavor",
+            "Store in an airtight container to preserve freshness",
+            "Certified Organic and Fair Trade"
+        ],
+        "allegations": [
+            "Allergen-free",
+            "Gluten-free and vegan"
+        ]
+    },
+    {
+        
+        "title": "Organic Greek Yogurt",
+        "description": "Thick and creamy organic Greek yogurt, packed with protein and probiotics. Perfect for breakfast, snacks, or as a base for smoothies.",
+        "category": "Dairy",
+        "brand": "Nature's Best",
+        "size": "16 oz tub",
+        "stock": 60,
+        "suggestion": [
+            "Enjoy with fresh fruit, honey, or granola",
+            "Keep refrigerated",
+            "Certified Organic"
+        ],
+        "allegations": [
+            "Contains dairy",
+            "Produced in a facility that processes nuts and soy"
+        ]
+    },
+    {
+        
+        "title": "Gluten-Free Pizza Crust",
+        "description": "A ready-to-bake gluten-free pizza crust made from a blend of rice and tapioca flours. Light, crispy, and perfect for your favorite pizza toppings.",
+        "category": "Frozen",
+        "brand": "Gluten Gone",
+        "size": "2 crusts per pack",
+        "stock": 25,
+        "suggestion": [
+            "Top with sauce, cheese, and your favorite toppings",
+            "Bake at 425°F for 10-12 minutes",
+            "Gluten-free and dairy-free"
+        ],
+        "allegations": [
+            "Gluten-free",
+            "Produced in a facility that processes dairy and nuts"
+        ]
+    },
+    {
+        
+        "title": "Organic Honey Mustard",
+        "description": "A tangy and slightly sweet organic honey mustard, made with natural ingredients and no artificial preservatives. Great for sandwiches, salads, or dipping.",
+        "category": "Pantry",
+        "brand": "Sauce Boss",
+        "size": "8 oz jar",
+        "stock": 35,
+        "suggestion": [
+            "Use as a spread for sandwiches or a dip for pretzels",
+            "Refrigerate after opening",
+            "Certified Organic"
+        ],
+        "allegations": [
+            "Contains mustard",
+            "Gluten-free and dairy-free"
+        ]
+    },
+    {
+        
+        "title": "Vegan Chocolate Chip Cookies",
+        "description": "Delicious soft-baked vegan chocolate chip cookies made with plant-based ingredients and sweetened with coconut sugar.",
+        "category": "Bakery",
+        "brand": "Sweet Vegan",
+        "size": "Pack of 12",
+        "stock": 20,
+        "suggestion": [
+            "Enjoy with a glass of almond milk",
+            "Keep in an airtight container to maintain freshness",
+            "Certified Vegan"
+        ],
+        "allegations": [
+            "Contains wheat and soy",
+            "Produced in a facility that processes nuts"
+        ]
+    },
+    {
+        
+        "title": "Organic Unsweetened Almond Milk",
+        "description": "Smooth and creamy organic almond milk with no added sugars. A great dairy-free alternative for smoothies, coffee, and baking.",
+        "category": "Dairy Alternatives",
+        "brand": "Almond Dream",
+        "size": "64 oz carton",
+        "stock": 45,
+        "suggestion": [
+            "Shake well before use",
+            "Store in the refrigerator and consume within 7-10 days after opening",
+            "Certified Organic and Non-GMO"
+        ],
+        "allegations": [
+            "Contains almonds",
+            "Gluten-free and vegan"
+        ]
+    },
+    {
+        
+        "title": "Frozen Organic Mixed Vegetables",
+        "description": "A blend of organic carrots, peas, corn, and green beans. Flash-frozen to preserve nutrients and flavor, perfect for quick and healthy meals.",
+        "category": "Frozen",
+        "brand": "Fresh Farms",
+        "size": "16 oz bag",
+        "stock": 35,
+        "suggestion": [
+            "Cook straight from frozen; sauté or steam",
+            "Add to stir-fries, soups, or casseroles",
+            "Certified Organic and Non-GMO"
+        ],
+        "allegations": [
+            "Allergen-free",
+            "Gluten-free and vegan"
+        ]
+    },
+    {
+        
+        "title": "Organic Hummus - Roasted Red Pepper",
+        "description": "Creamy organic hummus made with chickpeas, roasted red peppers, tahini, and garlic. A flavorful dip for veggies or pita chips.",
+        "category": "Deli",
+        "brand": "Healthy Dips",
+        "size": "10 oz container",
+        "stock": 40,
+        "suggestion": [
+            "Serve chilled with crackers or fresh veggies",
+            "Refrigerate after opening",
+            "Certified Organic and Non-GMO"
+        ],
+        "allegations": [
+            "Contains sesame",
+            "Gluten-free and vegan"
+        ]
+    },
+    {
+        
+        "title": "Organic Coconut Flour",
+        "description": "Finely milled organic coconut flour, perfect for gluten-free baking. High in fiber and low in carbs, ideal for paleo and keto diets.",
+        "category": "Pantry",
+        "brand": "Tropical Baking Co.",
+        "size": "16 oz bag",
+        "stock": 50,
+        "suggestion": [
+            "Use as a substitute for regular flour in baking",
+            "Store in a cool, dry place",
+            "Certified Organic and Gluten-Free"
+        ],
+        "allegations": [
+            "Contains coconut",
+            "Gluten-free and vegan"
+        ]
+    },
+    {
+        
+        "title": "Organic Peanut Butter Protein Bars",
+        "description": "Delicious organic peanut butter protein bars with 10g of plant-based protein, perfect for on-the-go snacking or post-workout fuel.",
+        "category": "Snacks",
+        "brand": "Fit Bites",
+        "size": "Box of 6 bars",
+        "stock": 30,
+        "suggestion": [
+            "Store in a cool, dry place",
+            "Enjoy as a quick snack or after exercise",
+            "Certified Organic and Non-GMO"
+        ],
+        "allegations": [
+            "Contains peanuts and soy",
+            "Gluten-free and vegan"
+        ]
+    },
+    {
+        
+        "title": "Organic Matcha Green Tea Powder",
+        "description": "High-quality organic matcha green tea powder, packed with antioxidants and perfect for lattes, smoothies, or baking.",
+        "category": "Beverages",
+        "brand": "Zen Leaf",
+        "size": "4 oz tin",
+        "stock": 40,
+        "suggestion": [
+            "Whisk with hot water for a traditional tea",
+            "Add to smoothies or baked goods for extra flavor",
+            "Certified Organic and Non-GMO"
+        ],
+        "allegations": [
+            "Allergen-free",
+            "Gluten-free and vegan"
+        ]
+    },
+    {
+        
+        "title": "Frozen Wild-Caught Salmon Fillets",
+        "description": "Sustainably sourced wild-caught salmon fillets, flash-frozen to preserve freshness and flavor. Rich in omega-3 fatty acids.",
+        "category": "Frozen",
+        "brand": "Ocean Fresh",
+        "size": "4 fillets (16 oz)",
+        "stock": 20,
+        "suggestion": [
+            "Thaw overnight in the refrigerator before cooking",
+            "Grill, bake, or pan-sear with your favorite seasoning",
+            "Sustainably sourced"
+        ],
+        "allegations": [
+            "Contains fish",
+            "Gluten-free"
+        ]
+    },
+    {
+        
+        "title": "Organic Almond Meal",
+        "description": "Finely ground organic almond meal, great for gluten-free baking and adding a nutty flavor to cookies, breads, and cakes.",
+        "category": "Pantry",
+        "brand": "NutriBake",
+        "size": "16 oz bag",
+        "stock": 35,
+        "suggestion": [
+            "Substitute for flour in baking or use as a coating for meats and veggies",
+            "Store in a cool, dry place",
+            "Certified Organic and Gluten-Free"
+        ],
+        "allegations": [
+            "Contains almonds",
+            "Gluten-free"
+        ]
+    },
+    {
+        
+        "title": "Cranberry Almond Granola",
+        "description": "Crunchy granola made with rolled oats, dried cranberries, and almonds. Perfect for breakfast or as a topping for yogurt and smoothie bowls.",
+        "category": "Pantry",
+        "brand": "Granola Goodness",
+        "size": "12 oz bag",
+        "stock": 50,
+        "suggestion": [
+            "Serve with milk or yogurt for breakfast",
+            "Sprinkle on smoothie bowls or eat as a snack",
+            "Gluten-free and Non-GMO"
+        ],
+        "allegations": [
+            "Contains almonds and oats",
+            "Produced in a facility that processes wheat and soy"
+        ]
+    },
+    {
+        
+        "title": "Organic Black Beans",
+        "description": "Canned organic black beans, perfect for soups, stews, salads, and more. A versatile pantry staple for plant-based meals.",
+        "category": "Canned Goods",
+        "brand": "Bean Basics",
+        "size": "15 oz can",
+        "stock": 40,
+        "suggestion": [
+            "Rinse before using to reduce sodium content",
+            "Add to tacos, burritos, or salads",
+            "Certified Organic and Non-GMO"
+        ],
+        "allegations": [
+            "Allergen-free",
+            "Gluten-free and vegan"
+        ]
+    },
+    {
+        
+        "title": "Organic Quinoa",
+        "description": "High-quality organic quinoa, a complete protein source with a nutty flavor and fluffy texture. Perfect for salads, pilafs, and grain bowls.",
+        "category": "Pantry",
+        "brand": "Quinoa Harvest",
+        "size": "16 oz bag",
+        "stock": 30,
+        "suggestion": [
+            "Rinse before cooking to remove bitterness",
+            "Cook in a 2:1 ratio of water to quinoa",
+            "Certified Organic and Non-GMO"
+        ],
+        "allegations": [
+            "Allergen-free",
+            "Gluten-free and vegan"
+        ]
+    },
+    {
+        
+        "title": "Organic Apple Cider Vinegar",
+        "description": "Raw and unfiltered organic apple cider vinegar, perfect for dressings, marinades, and health tonics. Contains the 'mother' for added health benefits.",
+        "category": "Pantry",
+        "brand": "Apple Acres",
+        "size": "32 oz bottle",
+        "stock": 25,
+        "suggestion": [
+            "Use in salad dressings or as a natural cleaning agent",
+            "Shake well before use",
+            "Certified Organic and Non-GMO"
+        ],
+        "allegations": [
+            "Allergen-free",
+            "Gluten-free and vegan"
+        ]
+    },
+    {
+        
+        "title": "Organic Unsweetened Applesauce",
+        "description": "Smooth and naturally sweet organic applesauce with no added sugar. Perfect as a snack or as an ingredient in baking.",
+        "category": "Pantry",
+        "brand": "Apple Harvest",
+        "size": "24 oz jar",
+        "stock": 40,
+        "suggestion": [
+            "Enjoy as a healthy snack or use in baking",
+            "Refrigerate after opening",
+            "Certified Organic and Non-GMO"
+        ],
+        "allegations": [
+            "Allergen-free",
+            "Gluten-free and vegan"
+        ]
+    },
+    {
+        
+        "title": "Vegan Caesar Salad Dressing",
+        "description": "Creamy vegan Caesar dressing made with plant-based ingredients. Perfect for salads, dips, or as a sauce for wraps.",
+        "category": "Pantry",
+        "brand": "Green Table",
+        "size": "12 oz bottle",
+        "stock": 35,
+        "suggestion": [
+            "Toss with romaine lettuce and croutons for a classic Caesar salad",
+            "Refrigerate after opening",
+            "Gluten-free, dairy-free, and vegan"
+        ],
+        "allegations": [
+            "Contains soy",
+            "Gluten-free and vegan"
+        ]
+    },
+    {
+        
+        "title": "Organic Sweet Potato Fries",
+        "description": "Crispy organic sweet potato fries, lightly seasoned and ready to bake. A healthier alternative to traditional fries.",
+        "category": "Frozen",
+        "brand": "Healthy Harvest",
+        "size": "16 oz bag",
+        "stock": 25,
+        "suggestion": [
+            "Bake at 400°F for 20-25 minutes until crispy",
+            "Serve with ketchup or your favorite dipping sauce",
+            "Certified Organic and Non-GMO"
+        ],
+        "allegations": [
+            "Allergen-free",
+            "Gluten-free and vegan"
+        ]
+    },
+    {
+        
+        "title": "Coconut Milk Yogurt - Vanilla",
+        "description": "Rich and creamy coconut milk yogurt with a hint of vanilla. Dairy-free and vegan, perfect for breakfast or snacks.",
+        "category": "Dairy Alternatives",
+        "brand": "Coco Bliss",
+        "size": "5.3 oz cup",
+        "stock": 60,
+        "suggestion": [
+            "Serve chilled with granola or fresh fruit",
+            "Refrigerate after opening",
+            "Certified Vegan and Gluten-Free"
+        ],
+        "allegations": [
+            "Contains coconut",
+            "Gluten-free and vegan"
+        ]
+    },
+    {
+        
+        "title": "Spiced Chickpea Snacks",
+        "description": "Crunchy roasted chickpeas seasoned with a blend of spices. A healthy, protein-packed snack for any time of the day.",
+        "category": "Snacks",
+        "brand": "Chickpea Crunch",
+        "size": "6 oz bag",
+        "stock": 45,
+        "suggestion": [
+            "Enjoy as a snack or add to salads for crunch",
+            "Store in a cool, dry place",
+            "Gluten-free and vegan"
+        ],
+        "allegations": [
+            "Allergen-free",
+            "Produced in a facility that processes nuts and soy"
+        ]
+    },
+    {
+        
+        "title": "Organic Tomato Basil Pasta Sauce",
+        "description": "Rich and flavorful organic tomato basil pasta sauce, made with ripe tomatoes, fresh basil, and a blend of herbs and spices.",
+        "category": "Pantry",
+        "brand": "Sauce Supreme",
+        "size": "24 oz jar",
+        "stock": 30,
+        "suggestion": [
+            "Heat and serve over your favorite pasta",
+            "Refrigerate after opening",
+            "Certified Organic and Non-GMO"
+        ],
+        "allegations": [
+            "Allergen-free",
+            "Gluten-free and vegan"
+        ]
+    },
+    {
+        
+        "title": "Organic Blue Corn Tortilla Chips",
+        "description": "Crispy blue corn tortilla chips made from organic blue corn and seasoned with sea salt. Perfect for dipping or snacking.",
+        "category": "Snacks",
+        "brand": "Blue Corn Delights",
+        "size": "12 oz bag",
+        "stock": 40,
+        "suggestion": [
+            "Pair with salsa, guacamole, or your favorite dip",
+            "Store in a cool, dry place",
+            "Certified Organic and Non-GMO"
+        ],
+        "allegations": [
+            "Allergen-free",
+            "Gluten-free and vegan"
+        ]
+    }
+]
