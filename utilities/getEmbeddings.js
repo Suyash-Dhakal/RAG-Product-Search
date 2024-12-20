@@ -4,7 +4,7 @@ const apiKey = process.env.AZURE_OPENAI_API_KEY;
 const getEmbeddings=async (data)=>{
     try {
 
-        const response=fetch(endpointUri,{
+        const response=await fetch(endpointUri,{
             method:'POST',
             headers:{
                 'Content-Type': 'application/json',
@@ -15,12 +15,17 @@ const getEmbeddings=async (data)=>{
                 model:"text-embedding-3-large"
             }),
         });
+
+        let embedding;
+        if(response.ok){
+            const jsonResponse=await response.json();
+            embedding=jsonResponse?.data[0]?.embedding;
+            return embedding;
+        }
         
     } catch (error) {
         console.log(error);
     }
 }
 
-module.exports={
-    getEmbeddings
-};
+module.exports=getEmbeddings;

@@ -19,4 +19,4 @@ const db = new Sequelize(dbName, dbUser, dbPassword, {
     logging:true
 });
 
-module.exports={db};
+module.exports=db;
